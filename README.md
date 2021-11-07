@@ -8,17 +8,20 @@ Virtual badge developed during the NWL Heat event.
 
 1. Go to the main.js file 
 
+    ![img1](https://user-images.githubusercontent.com/54152996/140663651-76727a3c-ccfa-42d8-923a-40b3adc18e67.jpg)
+
+
 2. Edit the following information:
 
-```
-const socialLinks = {
-  github: 'LucasReb',
-  youtube: "LucasRebouças",
-  facebook: "",
-  instagram: "lucas_rebsilv",
-  twitter: "Lucas_rebSilv",
-}
-```
+    ```
+    const socialLinks = {
+      github: 'LucasReb',
+      youtube: "LucasRebouças",
+      facebook: "",
+      instagram: "lucas_rebsilv",
+      twitter: "Lucas_rebSilv",
+    }
+    ```
 
 3. Ready! Your badge is personalized!
 
