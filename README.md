@@ -20,6 +20,8 @@ const socialLinks = {
 }
 ```
 
+3. Ready! Your badge is personalized!
+
 ## View:
 
 View the badge here: https://lucasreb.github.io/virtual-badge/
