@@ -17,10 +17,9 @@
     }
 
     main{
-      background: url(img/background.svg) no-repeat center/cover;
-      width: 100vw;
-      min-height: 812px;
-      height: 100vh;
+      background-image: url(img/background.svg);
+      width: 375px;
+      height: 812px;
     }
 
     .container{
