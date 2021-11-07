@@ -11,7 +11,7 @@ Virtual badge developed during the NWL Heat event.
     ![img1](https://user-images.githubusercontent.com/54152996/140663651-76727a3c-ccfa-42d8-923a-40b3adc18e67.jpg)
 
 
-2. Edit the following information:
+2. Replace the following fields with your information:
 
     ```
     const socialLinks = {
