@@ -1,4 +1,4 @@
 # Virtual badge
 Virtual badge developed during the NWL Heat event.
 
-view the badge here: 
+View the badge here: https://lucasreb.github.io/virtual-badge/
