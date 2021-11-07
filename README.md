@@ -30,5 +30,5 @@ Virtual badge developed during the NWL Heat event.
 View the badge here: https://lucasreb.github.io/virtual-badge/
 
 <p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/54152996/140663484-3ce0c7e1-6e5c-4172-850c-7685ae4e6715.jpg" 
+    <img width="33%" src="https://user-images.githubusercontent.com/54152996/140664719-6ad1458f-7127-4e62-85bc-dfed33ff00c2.jpg" 
 </p>
