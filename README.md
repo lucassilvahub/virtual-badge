@@ -10,7 +10,7 @@ This project was developed with the following technologies:
 * CSS
 * JavaScript
 
-Bibliotecas
+Libraries
 - [Google Fonts](https://www.fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [GitHub API](https://docs.github.com/pt/github/extending-github/getting-started-with-the-api)
