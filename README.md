@@ -18,7 +18,7 @@ Libraries
 ## Project
 Customizable virtual badge for personal use. This digital badge was created during the NLW/Heat event provided by Rocketseat.
 
-You can see the full project running here: 
+You can see the full project running here: https://lucasreb.github.io/virtual-badge/
 
 ## Contributing
 
