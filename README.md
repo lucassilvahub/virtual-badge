@@ -18,6 +18,8 @@ Libraries
 ## Project
 Customizable virtual badge for personal use. This digital badge was created during the NLW/Heat event provided by Rocketseat.
 
+You can see the full project running here: 
+
 ## Contributing
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
