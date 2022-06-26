@@ -16,4 +16,4 @@ Libraries
 - [GitHub API](https://docs.github.com/pt/github/extending-github/getting-started-with-the-api)
 
 ## Project
-Virtual badge developed during the NWL Heat event. This digital badge was created during the NLW/Heat event provided by Rocketseat.
+Customizable virtual badge for personal use. This digital badge was created during the NLW/Heat event provided by Rocketseat.
