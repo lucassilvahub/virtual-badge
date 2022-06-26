@@ -1,11 +1,11 @@
 # Virtual Badge
 
 <p align="center">
-  <img alt="Preview" src="https://repository-images.githubusercontent.com/418775020/5f87d109-6128-43b7-bdbd-056624dbdbc4" width="100%">
+  <img alt="Preview" src="https://user-images.githubusercontent.com/54152996/175835934-fbfb357f-ad27-4083-a949-13d2d7aca0e4.png" width="100%">
 </p>
 
 ## Technologies
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 * HTML
 * CSS
 * JavaScript
